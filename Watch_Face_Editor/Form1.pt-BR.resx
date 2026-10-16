@@ -463,7 +463,7 @@
     <value>Copiar itens para o AOD</value>
   </data>
   <data name="button_RandomPreview.Text" xml:space="preserve">
-    <value>Pré-visualização aleatória</value>
+    <value>Prévia aleatória</value>
   </data>
   <data name="radioButton_ScreenNormal.Size" type="System.Drawing.Size, System.Drawing">
     <value>83, 17</value>
@@ -472,7 +472,7 @@
     <value>Tela principal</value>
   </data>
   <data name="tabPage_Show_Set.Text" xml:space="preserve">
-    <value>Dados para pré-visualização</value>
+    <value>Dados para prévia</value>
   </data>
   <data name="userCtrl_Set12.ButtonText" xml:space="preserve">
     <value>Valores 12</value>
@@ -517,7 +517,7 @@
     <value>Carregar valores</value>
   </data>
   <data name="button_JsonPreview_Write.Text" xml:space="preserve">
-    <value>Salvar valores de pré-visualização</value>
+    <value>Salvar valores de prévia</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>765, 40</value>
@@ -697,7 +697,7 @@
     <value>85, 17</value>
   </data>
   <data name="checkBox_AddPreviewQR.Text" xml:space="preserve">
-    <value>Adicionar pré-visualização</value>
+    <value>Adicionar prévia</value>
   </data>
   <data name="label_FilePost_info_uploads_month.Size" type="System.Drawing.Size, System.Drawing">
     <value>105, 13</value>
@@ -874,7 +874,7 @@
     <value>138, 23</value>
   </data>
   <data name="button_SavePNG_button.Text" xml:space="preserve">
-    <value>Salvar pré-visualização dos botões</value>
+    <value>Salvar prévia dos botões</value>
   </data>
   <data name="checkBox_Buttons_In_Gif.Size" type="System.Drawing.Size, System.Drawing">
     <value>198, 17</value>
@@ -943,7 +943,7 @@
     <value>138, 23</value>
   </data>
   <data name="button_SavePNG_shortcut.Text" xml:space="preserve">
-    <value>Salvar pré-visualização dos atalhos</value>
+    <value>Salvar prévia dos atalhos</value>
   </data>
   <data name="checkBox_Shortcuts_In_Gif.Size" type="System.Drawing.Size, System.Drawing">
     <value>206, 17</value>
@@ -1081,7 +1081,7 @@
     <value>185, 39</value>
   </data>
   <data name="label483.Text" xml:space="preserve">
-    <value>Velocidade da pré-visualização da animação
+    <value>Velocidade da prévia da animação
 (velocidade alta - animação mais suave,
 mais carga no sistema)</value>
   </data>
@@ -5566,7 +5566,7 @@ PayPal: sashacx75@gmail.com</value>
     <value>Destacar o centro de rotação dos ponteiros</value>
   </data>
   <data name="button_CreatePreview.Text" xml:space="preserve">
-    <value>Gerar pré-visualização</value>
+    <value>Gerar prévia</value>
   </data>
   <data name="button_RefreshPreview.Text" xml:space="preserve">
     <value>Atualizar prévia</value>

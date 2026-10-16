@@ -314,6 +314,6 @@ Prefixo - qualquer palavra.
     <value>Mostrar animação</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Número do quadro exibido na pré-visualização</value>
+    <value>Número do quadro exibido na prévia</value>
   </data>
 </root>

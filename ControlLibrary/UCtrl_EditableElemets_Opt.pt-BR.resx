@@ -128,7 +128,7 @@
     <value>113, 17</value>
   </data>
   <data name="checkBox_edit_mode.Text" xml:space="preserve">
-    <value>Pré-visualização do modo de edição</value>
+    <value>Prévia do modo de edição</value>
   </data>
   <data name="checkBox_showInAOD.Size" type="System.Drawing.Size, System.Drawing">
     <value>153, 17</value>
@@ -318,13 +318,13 @@
     <value>Configurações gerais</value>
   </data>
   <data name="button_PreviewAdd.Text" xml:space="preserve">
-    <value>Criar pré-visualização</value>
+    <value>Criar prévia</value>
   </data>
   <data name="label21.Text" xml:space="preserve">
-    <value>Pré-visualização</value>
+    <value>Prévia</value>
   </data>
   <data name="button_PreviewRefresh.Text" xml:space="preserve">
-    <value>Atualizar pré-visualização</value>
+    <value>Atualizar prévia</value>
   </data>
   <data name="button_Direction.Text" xml:space="preserve">
     <value>Direção do vento</value>
@@ -513,7 +513,7 @@
     <value>Valores numéricos (nascer / pôr do sol)</value>
   </data>
   <data name="label_shortcuts_hint.Text" xml:space="preserve">
-    <value>A imagem de pré-visualização será substituída pelo ícone do app no mesmo tamanho.</value>
+    <value>A imagem de prévia será substituída pelo ícone do app no mesmo tamanho.</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
     <value>Seleção de elemento</value>

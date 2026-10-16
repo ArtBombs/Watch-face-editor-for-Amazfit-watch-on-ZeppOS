@@ -318,16 +318,16 @@
     <value>113, 17</value>
   </data>
   <data name="checkBox_edit_mode.Text" xml:space="preserve">
-    <value>Pré-visualização do modo de edição</value>
+    <value>Prévia do modo de edição</value>
   </data>
   <data name="button_PreviewAdd.Text" xml:space="preserve">
-    <value>Criar pré-visualização</value>
+    <value>Criar prévia</value>
   </data>
   <data name="button_PreviewRefresh.Text" xml:space="preserve">
-    <value>Atualizar pré-visualização</value>
+    <value>Atualizar prévia</value>
   </data>
   <data name="label21.Text" xml:space="preserve">
-    <value>Pré-visualização</value>
+    <value>Prévia</value>
   </data>
   <data name="label22.Text" xml:space="preserve">
     <value>Imagem de primeiro plano</value>

@@ -133,13 +133,13 @@
     <value>Criando um novo projeto</value>
   </data>
   <data name="Dialog_Title_PreviewStates" xml:space="preserve">
-    <value>Selecione um arquivo de configurações de pré-visualização</value>
+    <value>Selecione um arquivo de configurações de prévia</value>
   </data>
   <data name="Dialog_Title_SaveGIF" xml:space="preserve">
-    <value>Salvar a pré-visualização animada</value>
+    <value>Salvar a prévia animada</value>
   </data>
   <data name="Dialog_Title_SavePNG" xml:space="preserve">
-    <value>Salvar pré-visualização</value>
+    <value>Salvar prévia</value>
   </data>
   <data name="Dialog_Title_SaveQR" xml:space="preserve">
     <value>Salvar QR code</value>
@@ -202,10 +202,10 @@
     <value>Editar informações</value>
   </data>
   <data name="Form_Preview" xml:space="preserve">
-    <value>Pré-visualização</value>
+    <value>Prévia</value>
   </data>
   <data name="Form_PreviewX" xml:space="preserve">
-    <value>Pré-visualização [X =</value>
+    <value>Prévia [X =</value>
   </data>
   <data name="GitHub_AuthError" xml:space="preserve">
     <value>Erro na validação da autorização</value>
@@ -421,10 +421,10 @@
     <value>Iniciar o simulador</value>
   </data>
   <data name="Message_LoadPreviewStates_Caption" xml:space="preserve">
-    <value>Carregar configurações de pré-visualização</value>
+    <value>Carregar configurações de prévia</value>
   </data>
   <data name="Message_LoadPreviewStates_Text" xml:space="preserve">
-    <value>Carregar o arquivo existente com um conjunto de configurações de pré-visualização PreviewStates.json?</value>
+    <value>Carregar o arquivo existente com um conjunto de configurações de prévia PreviewStates.json?</value>
   </data>
   <data name="Message_Load_AutoSave" xml:space="preserve">
     <value>Foi encontrado um arquivo salvo automaticamente. Deseja carregá-lo?</value>
@@ -520,7 +520,7 @@
     <value> já existe. Substituir?</value>
   </data>
   <data name="Message_WarningPreview_Text1" xml:space="preserve">
-    <value>Os tamanhos da imagem de pré-visualização são diferentes do padrão</value>
+    <value>Os tamanhos da imagem de prévia são diferentes do padrão</value>
   </data>
   <data name="Message_WarningPreview_Text2" xml:space="preserve">
     <value>Usar as dimensões existentes?</value>
@@ -574,7 +574,7 @@
     <value>Formato de imagem de origem inválido</value>
   </data>
   <data name="Message_Wrong_Preview_Exists" xml:space="preserve">
-    <value>Não foi possível criar a imagem de pré-visualização. Talvez essa imagem já exista.</value>
+    <value>Não foi possível criar a imagem de prévia. Talvez essa imagem já exista.</value>
   </data>
   <data name="Message_ZeppPlayerNotFound" xml:space="preserve">
     <value>O ZeppPlayer não foi encontrado no caminho especificado.</value>

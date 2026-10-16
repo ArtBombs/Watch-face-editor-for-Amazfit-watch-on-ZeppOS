@@ -231,7 +231,7 @@
     <value>Coordenadas do centro de rotação</value>
   </data>
   <data name="checkBox_show_in_startPos.Text" xml:space="preserve">
-    <value>Mostrar o elemento na posição inicial na pré-visualização</value>
+    <value>Mostrar o elemento na posição inicial na prévia</value>
   </data>
   <data name="checkBox_anim_two_sides.Size" type="System.Drawing.Size, System.Drawing">
     <value>159, 17</value>
