@@ -5569,7 +5569,7 @@ PayPal: sashacx75@gmail.com</value>
     <value>Gerar pré-visualização</value>
   </data>
   <data name="button_RefreshPreview.Text" xml:space="preserve">
-    <value>Atualizar pré-visualização</value>
+    <value>Atualizar prévia</value>
   </data>
   <data name="checkBox_Show_Shortcuts.Text" xml:space="preserve">
     <value>Destacar área do atalho</value>
