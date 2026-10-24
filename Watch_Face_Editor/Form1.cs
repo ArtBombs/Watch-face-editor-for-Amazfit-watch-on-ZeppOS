@@ -211,6 +211,7 @@ namespace Watch_Face_Editor
                 Logger.WriteLine("Ошибка чтения настроек " + ex);
             }
 
+            DarkTheme.ThemeManager.Install(ProgramSettings != null && ProgramSettings.DarkMode, ProgramSettings?.DarkAccent); // experimental dark mode
             InitializeComponent();
 
             WatchFacePreviewSet = new Watch_Face_Preview_Set();
@@ -259,6 +260,7 @@ namespace Watch_Face_Editor
                 dataGridView_ImagesList.Columns[3].DefaultCellStyle.ForeColor = Color.Black;
                 dataGridView_ImagesList.Columns[3].DefaultCellStyle.BackColor = Color.White;
             }
+            DarkMode_Init(); // experimental dark mode (DarkTheme/Form1.DarkMode.cs)
 
             #region sistem font
             //byte[] fontData = Properties.Resources.OpenSans_Regular;
