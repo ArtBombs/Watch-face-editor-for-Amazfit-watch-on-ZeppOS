@@ -39,6 +39,7 @@ namespace Watch_Face_Editor
         public bool Show_Widgets_Area = true;
         public bool DarkMode = false; // experimental dark mode
         public string DarkAccent = "blue"; // dark mode identity: "blue" (Zepp app) or "orange" (Zepp OS)
+        public bool McpBridgeEnabled = false; // optional MCP bridge (McpBridge/), off by default
 
         public bool Shortcuts_Area = true;
         public bool Shortcuts_Border = true;

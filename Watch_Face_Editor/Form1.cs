@@ -536,6 +536,7 @@ namespace Watch_Face_Editor
             SetPreferences(userCtrl_Set1);
             PreviewView = true;
             InitImageDragDrop();
+            McpBridge_Init(); // optional MCP bridge, off by default (McpBridge/Form1.McpBridge.cs)
             Logger.WriteLine("* Form1_Load (end)");
         }
 
